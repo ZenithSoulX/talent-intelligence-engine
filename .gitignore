@@ -1,0 +1,12 @@
+artifacts/
+data/candidates.jsonl.gz
+data/candidates.jsonl
+__pycache__/
+*.py[cod]
+*.pyo
+env/
+.env
+.venv/
+venv/
+.vscode/settings.json
+.DS_Store

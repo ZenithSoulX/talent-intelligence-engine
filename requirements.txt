@@ -1,0 +1,8 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+rank-bm25
+lightgbm
+anthropic
+streamlit
