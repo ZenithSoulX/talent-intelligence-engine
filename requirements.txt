@@ -6,3 +6,7 @@ rank-bm25
 lightgbm
 anthropic
 streamlit
+json
+tqdm
+huggingface-hub
+pickle
